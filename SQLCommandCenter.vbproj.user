@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UI\Controls\MetricCard.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\ModernDataGrid.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\ServerCard.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\SidebarButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Controls\StatusBadge.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\ConfirmDestructiveDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\ServerEditDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Views\AlertsView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Views\BackupView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Views\BlockingView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Views\ConnectionsView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Views\DashboardView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Views\DatabasesView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Views\PerformanceView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Views\QueriesView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Views\ReportsView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Views\ServersView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Views\SettingsView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Views\SqlConsoleView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Views\StorageView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
